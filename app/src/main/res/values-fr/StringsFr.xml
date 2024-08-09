@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NASA Image du Jour</string>
+    <string name="fetch_image">Récupérer l\'image</string>
+    <string name="save_image">Enregistrer l\'image</string>
+    <string name="view_saved_images">Voir les images enregistrées</string>
+    <string name="help">Aide</string>
+    <string name="date">Date</string>
+    <string name="url">URL</string>
+    <string name="hd_image_url">URL de l\'image HD</string>
+    <string name="image_desc">DESCription image</string>
+    <string name="navigation_drawer_open">Navigation Ouverte</string>
+    <string name="navigation_drawer_close">Navigation Fermee</string>
+
+</resources>
