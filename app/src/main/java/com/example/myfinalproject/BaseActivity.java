@@ -24,7 +24,6 @@ public class BaseActivity extends AppCompatActivity implements NavigationView.On
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // Note: We don't setContentView here because it's the responsibility of the child activities to set their own content view
     }
 
     // Method to set up the toolbar and navigation drawer, used by child activities

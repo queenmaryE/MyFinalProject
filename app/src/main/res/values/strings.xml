@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NASA Image Search</string>
+    <string name="version" translatable="false">1.0.0</string>
+    <string name="fetch_image">Fetch Image</string>
+    <string name="save_image">Save Image</string>
+    <string name="view_saved_images">View Saved Images</string>
+    <string name="help">Help</string>
+    <string name="date">Date</string>
+    <string name="url">URL</string>
+    <string name="hd_image_url">HD Image URL</string>
+    <string name="image_desc">DESC image</string>
+    <string name="navigation_drawer_open">Navigation drawer open</string>
+    <string name="navigation_drawer_close">Navigation drawer close</string>
+
+</resources>
